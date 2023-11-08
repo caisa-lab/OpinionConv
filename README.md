@@ -4,6 +4,8 @@ When searching for products, the subjective experiences of others can be a valua
 
 With OpinionConv, we develop the first conversational system to simulate sales conversations by leveraging product reviews to ground conversational AI in true subjective narratives.
 
+The above figure depicts the high-level overview of our approach in OpinionConv for generating opinionated multi-turn conversations.
+
 OpinionConv enables researchers to study a number of tasks related to conversational product search, including opinionated conversation modeling and opinionated response generation and selection. For more information, refer to the following paper:
 
 - Vahid Sadiri Javadi, Martin Potthast, Lucie Flek.[**"OpinionConv: Conversational Product Search with Grounded Opinions"**](https://arxiv.org/abs/2308.04226), In Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue, 2023 (SIGDIAL '23).
