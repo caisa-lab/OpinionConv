@@ -10,6 +10,10 @@ OpinionConv enables researchers to study a number of tasks related to conversati
 
 - Vahid Sadiri Javadi, Martin Potthast, Lucie Flek.[**"OpinionConv: Conversational Product Search with Grounded Opinions"**](https://arxiv.org/abs/2308.04226), In Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue, 2023 (SIGDIAL '23).
 
+## Data Generation:
+
+The code in src-ipynb/Script.ipynb contains the steps that should be followed and executed in a sequential manner to generate the conversational dataset.
+
 ## Citation
 If you found our work useful, the paper and the dataset can be cited as follows:
 
