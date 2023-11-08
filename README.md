@@ -5,7 +5,7 @@ When searching for products, the subjective experiences of others can be a valua
 With OpinionConv, we develop the first conversational system to simulate sales conversations by leveraging product reviews to ground conversational AI in true subjective narratives.
 
 <p align="center">
-  <img width="600" height="282" src="https://github.com/caisa-lab/OpinionConv/blob/main/src-ipynb/High-level%20Overview%20of%20OpinionConv.png">
+  <img src="https://github.com/caisa-lab/OpinionConv/blob/main/src-ipynb/High-level%20Overview%20of%20OpinionConv.png">
 </p>
 
 The above figure depicts the high-level overview of our approach in OpinionConv for generating opinionated multi-turn conversations.
