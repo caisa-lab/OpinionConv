@@ -20,7 +20,7 @@ The code in ``src-ipynb/Script.ipynb`` contains the steps that should be followe
 
 **Note**: 
 
-- You need to download the Metadata, Product reviews, and Rating data from the  [**Amazon Review Data (2018)**](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
+- You need to download the Metadata, Product reviews, and Rating data from the  [**Amazon Review Data (2018)**].(https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
 - The full conversational data can't fit in the zip file. Instead, we provided a data sample in ``ConversationalDataset_Sample.zip`` folder.
 - All the GitHub repositories for the pre-trained models that we used in our paper have been listed and explained in the Jupyter Notebook file.
 
